@@ -1,8 +1,6 @@
-import styles from "./Analysis.css";
-
 export default function() {
   return (
-    <div className={styles.normal}>
+    <div>
       <h1>Page Analyis</h1>
     </div>
   );

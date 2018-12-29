@@ -1,8 +1,6 @@
-import styles from './Workplace.css';
-
 export default function() {
   return (
-    <div className={styles.normal}>
+    <div>
       <h1>Page Workplace</h1>
     </div>
   );
